@@ -1,2 +1,2 @@
 <?php
-echo 'file2';
+echo 'file3';
